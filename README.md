@@ -8,7 +8,12 @@ To use it, write down a username longer than 2 letters and click continue. Now y
 
 
 Here is a video of the implementation. 
-https://user-images.githubusercontent.com/74827204/146596316-4ba859ba-252b-4ac8-a94f-ef6a3dfae3b1.mp4
+
+
+https://user-images.githubusercontent.com/74827204/146597639-c94e98c6-8feb-4d0a-9b47-3b680e9cc075.mp4
+
+
+
 
 
 ## Interview Questions
