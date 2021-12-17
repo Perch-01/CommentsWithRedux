@@ -10,7 +10,8 @@ To use it, write down a username longer than 2 letters and click continue. Now y
 Here is a video of the implementation. 
 
 
-https://user-images.githubusercontent.com/74827204/146597639-c94e98c6-8feb-4d0a-9b47-3b680e9cc075.mp4
+
+https://user-images.githubusercontent.com/74827204/146604229-fc3d22aa-aa11-4d6f-b087-101f311b02d6.mp4
 
 
 
