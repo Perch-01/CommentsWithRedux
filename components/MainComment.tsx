@@ -32,7 +32,8 @@ interface comment {
  * Main comment component
  * @param {object} data - Data containing the object
  * @param {number} index - Index of data
- * @param {function} deleteComment - Function to delete comment
+ * @param {function} deleteComment - Function to delete main comment
+ * @param {function} deleteInternalComment - Function to delete a subcomment
  * @returns Renderable component
  */
 
