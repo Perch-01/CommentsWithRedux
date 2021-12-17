@@ -36,6 +36,7 @@ const CommentInput = ({
 }) => {
   const {reply} = useReply();
   const inputRef = useRef<any>(null);
+  const {setReplyData} = useReply();
   useEffect(() => {
     if (Object.keys(reply).length === 0) return;
     inputRef?.current?.focus();
@@ -59,6 +60,9 @@ const CommentInput = ({
           if (value.length != 0) {
             sendComment();
           }
+        }}
+        onBlur={() => {
+          setReplyData({});
         }}
         returnKeyType={'send'}
       />
