@@ -9,7 +9,7 @@ import {
 import constants from '../constants/values';
 
 /**
- * Input Component
+ * Button Component
  * @param {string} text - the text to be displayed on the button
  * @param {Function} onPress - the function to handle press events
  * @returns Renderable component
