@@ -142,6 +142,7 @@ const styles = StyleSheet.create({
   containerSafe: {
     width: '100%',
     height: '100%',
+    paddingBottom:100,
   },
   title: {
     textAlign: 'center',
